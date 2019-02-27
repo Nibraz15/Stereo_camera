@@ -1,0 +1,18 @@
+﻿Build started 7/26/2018 4:00:25 PM.
+     1>Project "D:\Projects\SERTS\DepthMapping\C++\DepthMap\DepthMap\DepthMap.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv\build\install\include\opencv2 /IC:\opencv\build\install\include\opencv /IC:\opencv\build\install\include /ZI /nologo /W3 /WX- /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt DepthMap.cpp
+         DepthMap.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\SERTS\DepthMapping\C++\DepthMap\x64\Debug\DepthMap.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\install\x64\vc14\lib opencv_aruco330d.lib opencv_bgsegm330d.lib opencv_bioinspired330d.lib opencv_calib3d330d.lib opencv_ccalib330d.lib opencv_core330d.lib opencv_datasets330d.lib opencv_dnn330d.lib opencv_dpm330d.lib opencv_face330d.lib opencv_features2d330d.lib opencv_flann330d.lib opencv_fuzzy330d.lib opencv_highgui330d.lib opencv_img_hash330d.lib opencv_imgcodecs330d.lib opencv_imgproc330d.lib opencv_line_descriptor330d.lib opencv_ml330d.lib opencv_objdetect330d.lib opencv_optflow330d.lib opencv_phase_unwrapping330d.lib opencv_photo330d.lib opencv_plot330d.lib opencv_reg330d.lib opencv_rgbd330d.lib opencv_saliency330d.lib opencv_shape330d.lib opencv_stereo330d.lib opencv_stitching330d.lib opencv_structured_light330d.lib opencv_superres330d.lib opencv_surface_matching330d.lib opencv_text330d.lib opencv_tracking330d.lib opencv_video330d.lib opencv_videoio330d.lib opencv_videostab330d.lib opencv_xfeatures2d330d.lib opencv_ximgproc330d.lib opencv_xobjdetect330d.lib opencv_xphoto330d.lib opencv_cudaarithm330d.lib opencv_cudabgsegm330d.lib opencv_cudacodec330d.lib opencv_cudafeatures2d330d.lib opencv_cudafilters330d.lib opencv_cudaimgproc330d.lib opencv_cudalegacy330d.lib opencv_cudaobjdetect330.lib opencv_cudaoptflow330d.lib opencv_cudastereo330d.lib opencv_cudawarping330d.lib opencv_cudev330d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Projects\SERTS\DepthMapping\C++\DepthMap\x64\Debug\DepthMap.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\SERTS\DepthMapping\C++\DepthMap\x64\Debug\DepthMap.lib" /MACHINE:X64 x64\Debug\CameraCalibration.obj
+         x64\Debug\CameraCapture.obj
+         x64\Debug\CameraTest.obj
+         x64\Debug\CudaDepthMapCreator.obj
+         x64\Debug\DepthMap.obj
+         x64\Debug\DepthMapCreator.obj
+         DepthMap.vcxproj -> D:\Projects\SERTS\DepthMapping\C++\DepthMap\x64\Debug\DepthMap.exe
+     1>Done Building Project "D:\Projects\SERTS\DepthMapping\C++\DepthMap\DepthMap\DepthMap.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.38
